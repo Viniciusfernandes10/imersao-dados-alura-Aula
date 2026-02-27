@@ -14,13 +14,7 @@ O projeto está hospedado no Streamlit Cloud e pode ser acessado pelo link abaix
 
 ## 🖼️ Visualização do Dashboard
 
-<p align="center">
-  <img src="dashboard_geral.png" width="800" alt="Visão Geral com Métricas e Gráficos do Dashboard">
-</p>
 
-<p align="center">
-  <img src="dashboard_detalhes.png" width="800" alt="Proporção de Trabalho, Mapa Global e Tabela Detalhada">
-</p>
 
 ---
 
