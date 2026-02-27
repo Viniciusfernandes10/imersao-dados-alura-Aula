@@ -14,10 +14,13 @@ O projeto está hospedado no Streamlit Cloud e pode ser acessado pelo link abaix
 
 ## 🖼️ Visualização do Dashboard
 
-<p align="center"><img src="<img width="1858" height="918" alt="Captura de tela 2026-02-27 181529" src="https://github.com/user-attachments/assets/e147e458-024b-436d-a5e4-486c1b43dec9" />
-" width="800"></p>
-<p align="center"><img src="<img width="1855" height="936" alt="Captura de tela 2026-02-27 181556" src="https://github.com/user-attachments/assets/fdacd757-2d4b-4eee-b3d4-d2ea77e281a8" />
-" width="800"></p>
+<p align="center">
+  <img src="dashboard_geral.png" width="800" alt="Visão Geral com Métricas e Gráficos do Dashboard">
+</p>
+
+<p align="center">
+  <img src="dashboard_detalhes.png" width="800" alt="Proporção de Trabalho, Mapa Global e Tabela Detalhada">
+</p>
 
 ---
 
