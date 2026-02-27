@@ -14,7 +14,13 @@ O projeto está hospedado no Streamlit Cloud e pode ser acessado pelo link abaix
 
 ## 🖼️ Visualização do Dashboard
 
+<p align="center">
+  Coloque_aqui_o_link_que_o_github_gerou_da_primeira_imagem
+</p>
 
+<p align="center">
+  Coloque_aqui_o_link_que_o_github_gerou_da_segunda_imagem
+</p>
 
 ---
 
