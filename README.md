@@ -15,12 +15,14 @@ O projeto está hospedado no Streamlit Cloud e pode ser acessado pelo link abaix
 ## 🖼️ Visualização do Dashboard
 
 <p align="center">
-  Coloque_aqui_o_link_que_o_github_gerou_da_primeira_imagem
+  <img width="1858" height="918" alt="dashboard_geral png" src="https://github.com/user-attachments/assets/0d425b37-cc22-4d80-a8b9-a991cc40dc95" />
 </p>
 
 <p align="center">
-  Coloque_aqui_o_link_que_o_github_gerou_da_segunda_imagem
+  <img width="1855" height="936" alt="dashboard_detalhes png" src="https://github.com/user-attachments/assets/d23f20f2-6c40-4525-8e76-2ba1a6ed793b" />
+
 </p>
+
 
 ---
 
